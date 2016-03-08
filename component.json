@@ -1,0 +1,10 @@
+{
+    "name": "isemail",
+    "description": "Validate an email address according to RFCs 5321, 5322, and others",
+    "repos": "https://github.com/hapijs/isemail.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.0.0"
+}
